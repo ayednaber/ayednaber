@@ -4,10 +4,10 @@
 👨‍🎓 Computer Science Graduate from McMaster University
 
 
-👨‍💻 Full Stack Developer @ RBC
+👨‍💻 Software Engineer @ EllisDon
 
 
-💻 Interested in Web development, data science and machine learning
+💻 Previously worked at RBC for 3 years
 
 
 ⚽️🏋️🥘 In my free time, you can find me playing football, lifting or cooking
